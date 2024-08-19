@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/baf253a8-b392-4902-a1e1-350172168026)![image](https://github.com/user-attachments/assets/6973966b-c776-4c09-9339-e3ed4ae550f9)![image](https://github.com/user-attachments/assets/68aa6aef-cd4b-46dc-a89b-3074e8e33e09)
-
 ### PROJETO 01 
 #### DECIFRANDO CÓDIGO MORSE
 
